@@ -3,7 +3,7 @@
 # Используемые библиотеки
 Python, SQLAlchemy, PostgreSQL, dash, Tableau
 # Презентация
-# Дашборд (https://public.tableau.com/app/profile/.44884319/viz/_16522856929440/_?publish=yes)
+# [Дашборд](https://public.tableau.com/app/profile/.44884319/viz/_16522856929440/_?publish=yes)
 # Статус
 Завершен
 
